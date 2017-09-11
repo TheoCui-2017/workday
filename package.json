@@ -1,0 +1,9 @@
+{
+    "name": "workday-plugin",
+    "version": "1.0.0",
+    "description": "workday plugin",
+    "dependencies": {
+        "promise": "^7.0.4",
+        "request": "^2.62.0"
+    }
+}
